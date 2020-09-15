@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#grid-container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-row-align: center;
+      align-self: center;
+  justify-items: center;
+  min-height: 100vh;
+  width: 100%;
+}
+
+#dog-button:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
